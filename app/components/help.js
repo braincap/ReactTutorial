@@ -1,13 +1,13 @@
 var React = require('react');
 
-var Home = React.createClass({
+var Help = React.createClass({
     render: function () {
         return (
             <div>
-                Hello from Home
+                Hello from Help
             </div>
         );
     }
 });
 
-module.exports = Home;
+module.exports = Help;
